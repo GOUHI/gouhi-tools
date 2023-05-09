@@ -1,0 +1,22 @@
+{
+  "name": "gouhilee-tools",
+  "version": "1.0.0",
+  "description": "狗嗨自用工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GOUHI/gouhi-tools.git"
+  },
+  "keywords": [
+    "gouhi"
+  ],
+  "author": "gouhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GOUHI/gouhi-tools/issues"
+  },
+  "homepage": "https://github.com/GOUHI/gouhi-tools#readme"
+}
